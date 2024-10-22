@@ -1,5 +1,5 @@
 /dataset
 model.png
-a.wav
+*.wav
 main.py
 model.keras

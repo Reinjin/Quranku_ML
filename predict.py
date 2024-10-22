@@ -58,6 +58,6 @@ def predict_audio_class(file_path, model_path='model.keras'):
     return predicted_class_name
 
 # Contoh penggunaan
-file_path = 'a.wav'
+file_path = 'aa.wav'
 predicted_class = predict_audio_class(file_path)
 print(f'Predicted Class: {predicted_class}')

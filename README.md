@@ -1,5 +1,9 @@
-Link Dataset yang digunakan : 
+Saya menggunakan dataset yang saya kumpulkan dari santri tahfidz Pondok Yanbu'ul Qur'an Menawan Kudus
 
-https://1drv.ms/f/s!AlKysUVQm81-3XxAuKb8doJS1Ry0?e=LWhWnV
+link dataset : 
+https://huggingface.co/datasets/Reinjin/Pelafalan_Huruf_Hijaiyah
 
+buat folder "dataset" lalu extract file zip dataset nya di dalam folder tersebut untuk menggunakannya
 
+note : Arsitektur dan cara ini masih belum bisa diterapkan dengan dataset yang sedikit dikarenakan banyak terjadi class overlaping silahkan cek :
+https://github.com/Reinjin/Quranku_ML_Biner

@@ -1,4 +1,5 @@
 /dataset
+/dataset_lama
 model.png
 *.wav
 main.py
